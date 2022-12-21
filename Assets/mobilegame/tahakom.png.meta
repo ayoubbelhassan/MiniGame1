@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: ea7349de8b738d345b0c04091f875c84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7915301843593934618
+    second: tahakom_0
+  - first:
+      213: 5700368768513744033
+    second: tahakom_1
+  - first:
+      213: -3281530880796012935
+    second: tahakom_2
+  - first:
+      213: 1556519005357984432
+    second: tahakom_3
+  - first:
+      213: -2429194396794370918
+    second: tahakom_4
+  - first:
+      213: 1994444938632407842
+    second: tahakom_5
+  - first:
+      213: 487305583797331957
+    second: tahakom_6
+  - first:
+      213: -6253651935215495878
+    second: tahakom_7
+  - first:
+      213: 5742220332913291464
+    second: tahakom_8
+  - first:
+      213: 8651118157731334719
+    second: tahakom_9
+  - first:
+      213: 1850051771312955138
+    second: tahakom_10
+  - first:
+      213: -6399995337955614800
+    second: tahakom_11
+  - first:
+      213: 1043799603128636057
+    second: tahakom_12
+  - first:
+      213: 4461293266008145036
+    second: tahakom_13
+  - first:
+      213: -5005174597980283077
+    second: tahakom_14
+  - first:
+      213: 3785536040945347397
+    second: tahakom_15
+  - first:
+      213: 947359142734293680
+    second: tahakom_16
+  - first:
+      213: 6537610178394124694
+    second: tahakom_17
+  - first:
+      213: -5223737935956627986
+    second: tahakom_18
+  - first:
+      213: 2848197522874905440
+    second: tahakom_19
+  - first:
+      213: -4064863520408360206
+    second: tahakom_20
+  - first:
+      213: 7148930893895406022
+    second: tahakom_21
+  - first:
+      213: 8625924048653317491
+    second: tahakom_22
+  - first:
+      213: 7514227904091477613
+    second: tahakom_23
+  - first:
+      213: -2228692704987980614
+    second: tahakom_24
+  - first:
+      213: -2860186499420711360
+    second: tahakom_25
+  - first:
+      213: -5603891910343903562
+    second: tahakom_26
+  - first:
+      213: 2912706117976858270
+    second: tahakom_27
+  - first:
+      213: -8770282970234966260
+    second: tahakom_28
+  - first:
+      213: -8113893504192588598
+    second: tahakom_29
+  - first:
+      213: 2919778913295972157
+    second: tahakom_30
+  - first:
+      213: 3526608648259247185
+    second: tahakom_31
+  - first:
+      213: -1329923128606290340
+    second: tahakom_32
+  - first:
+      213: 7857472874662710421
+    second: tahakom_33
+  - first:
+      213: 8111358476035670186
+    second: tahakom_34
+  - first:
+      213: -2994016312555735537
+    second: tahakom_35
+  - first:
+      213: 438060386336324498
+    second: tahakom_36
+  - first:
+      213: -4471413309092667008
+    second: tahakom_37
+  - first:
+      213: -4795652503710592526
+    second: tahakom_38
+  - first:
+      213: -176284232587923177
+    second: tahakom_39
+  - first:
+      213: 1667004409768613216
+    second: tahakom_40
+  - first:
+      213: 1288891044564111937
+    second: tahakom_41
+  - first:
+      213: -5166545605395554725
+    second: tahakom_42
+  - first:
+      213: -3451789852452628065
+    second: tahakom_43
+  - first:
+      213: -600236180295165515
+    second: tahakom_44
+  - first:
+      213: 9038550894931952457
+    second: tahakom_45
+  - first:
+      213: 4180886966249108923
+    second: tahakom_46
+  - first:
+      213: -7678873453123148462
+    second: tahakom_47
+  - first:
+      213: -1158863513730377393
+    second: tahakom_48
+  - first:
+      213: 6668220078682324453
+    second: tahakom_49
+  - first:
+      213: 7867612171157322610
+    second: tahakom_50
+  - first:
+      213: -8750150609734680599
+    second: tahakom_51
+  - first:
+      213: 7332827605942540922
+    second: tahakom_52
+  - first:
+      213: -6317691133595673616
+    second: tahakom_53
+  - first:
+      213: -4726081336416244942
+    second: tahakom_54
+  - first:
+      213: 7373447202057424535
+    second: tahakom_55
+  - first:
+      213: 8779905443523860928
+    second: tahakom_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tahakom_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 332
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c69a09e2372290800000000000000
+      internalID: -7915301843593934618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 332
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1eff6137cb1f40800000000000000
+      internalID: 5700368768513744033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 332
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ecdaadc09a572d0800000000000000
+      internalID: -3281530880796012935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 332
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bac180e9cdd99510800000000000000
+      internalID: 1556519005357984432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 332
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94c3b80194c94ed0800000000000000
+      internalID: -2429194396794370918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 295
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba24bca11bdab10800000000000000
+      internalID: 1994444938632407842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 296
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7ed4bb8d143c600800000000000000
+      internalID: 487305583797331957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 287
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35db8cb2b09639a0800000000000000
+      internalID: -6253651935215495878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 293
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0725d18f670bf40800000000000000
+      internalID: 5742220332913291464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 293
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a028df022fe0870800000000000000
+      internalID: 8651118157731334719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 293
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fd035b844bca910800000000000000
+      internalID: 1850051771312955138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 293
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfdff41626ae27a0800000000000000
+      internalID: -6399995337955614800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 292
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9921d2175325c7e00800000000000000
+      internalID: 1043799603128636057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 254
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf147a692b9ed30800000000000000
+      internalID: 4461293266008145036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 254
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f9390c83c0a8ab0800000000000000
+      internalID: -5005174597980283077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 254
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b6cfcf8fce88430800000000000000
+      internalID: 3785536040945347397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 253
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba6569fe12b52d00800000000000000
+      internalID: 947359142734293680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 254
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691f82bc1d14aba50800000000000000
+      internalID: 6537610178394124694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 212
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeda297160e8187b0800000000000000
+      internalID: -5223737935956627986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 212
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0633b118e84d68720800000000000000
+      internalID: 2848197522874905440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 203
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faad9d2a24b697c0800000000000000
+      internalID: -4064863520408360206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 214
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1937675ca163360800000000000000
+      internalID: 7148930893895406022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 215
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375fa7b583075b770800000000000000
+      internalID: 8625924048653317491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 215
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6653b87776e74860800000000000000
+      internalID: 7514227904091477613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 215
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcdfadfac71211e0800000000000000
+      internalID: -2228692704987980614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 215
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04619ae58839e48d0800000000000000
+      internalID: -2860186499420711360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 175
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6344c8ff9fa32b0800000000000000
+      internalID: -5603891910343903562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e1e1938c20c6820800000000000000
+      internalID: 2912706117976858270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 175
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fac730b12b94680800000000000000
+      internalID: -8770282970234966260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 176
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac45041e8d8a56f80800000000000000
+      internalID: -8113893504192588598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_30
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 173
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37bea5b373258820800000000000000
+      internalID: 2919778913295972157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_31
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 155
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c105d71e701f030800000000000000
+      internalID: 3526608648259247185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_32
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 156
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e88d4f5f92b8de0800000000000000
+      internalID: -1329923128606290340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 155
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cc986e2f95b0d60800000000000000
+      internalID: 7857472874662710421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 157
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0c5f1ee85519070800000000000000
+      internalID: 8111358476035670186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_35
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 154
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f366d60e1376d0800000000000000
+      internalID: -2994016312555735537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 132
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b3fb5b99d441600800000000000000
+      internalID: 438060386336324498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 137
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081e393394952f1c0800000000000000
+      internalID: -4471413309092667008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 137
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f11e12d47b627db0800000000000000
+      internalID: -4795652503710592526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 135
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7113819ac66bd8df0800000000000000
+      internalID: -176284232587923177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_40
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 104
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0659443bda3622710800000000000000
+      internalID: 1667004409768613216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 104
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1421d61839f03e110800000000000000
+      internalID: 1288891044564111937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_42
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 104
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eda8a352ebc48b0800000000000000
+      internalID: -5166545605395554725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_43
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 105
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f995345ea67c810d0800000000000000
+      internalID: -3451789852452628065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b95b2ccf588ba7f0800000000000000
+      internalID: -600236180295165515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 98
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94345b096226f6d70800000000000000
+      internalID: 9038550894931952457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 97
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5b6556b8e750a30800000000000000
+      internalID: 4180886966249108923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 96
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255ea6f57492f6590800000000000000
+      internalID: -7678873453123148462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_48
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4990f036c3eaefe0800000000000000
+      internalID: -1158863513730377393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 57
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edbcf1f4d64a8c50800000000000000
+      internalID: 6668220078682324453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 57
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b3f54d59f5f2d60800000000000000
+      internalID: 7867612171157322610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efb8977168319680800000000000000
+      internalID: -8750150609734680599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 56
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a126b4bdf63c560800000000000000
+      internalID: 7332827605942540922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 58
+        width: 166
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb1565f26d0358a0800000000000000
+      internalID: -6317691133595673616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_54
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 22
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b6e4b7016996eb0800000000000000
+      internalID: -4726081336416244942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_55
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 22
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e0bb00a2fb35660800000000000000
+      internalID: 7373447202057424535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tahakom_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 27
+        width: 166
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c912c2ab7d78d970800000000000000
+      internalID: 8779905443523860928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
